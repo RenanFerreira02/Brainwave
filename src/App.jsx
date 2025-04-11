@@ -1,5 +1,6 @@
 import ButtonGradient from "./assets/svg/ButtonGradient";
 import Header from "./components/Header/Header";
+import Hero from "./components/Hero/Hero";
 
 const App = () => {
   return (
@@ -9,6 +10,8 @@ const App = () => {
       </div>
 
       <ButtonGradient />
+
+      <Hero />
     </>
   );
 };
