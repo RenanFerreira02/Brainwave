@@ -5,7 +5,7 @@ import { ScrollParallax } from "react-just-parallax";
 import { useRef } from "react";
 import Section from "../Section/Section";
 import Button from "../Button/Button";
-import Generating from "./Generating";
+import Generating from "../Generating/Generating";
 import Notification from "./Notification";
 import CompanyLogos from "./CompanyLogos";
 
